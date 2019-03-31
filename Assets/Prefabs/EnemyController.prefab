@@ -2586,7 +2586,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 324adf79e8151b647b2c0340075838dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: {x: -100, y: 0, z: 0}
+  velocity: {x: 10, y: 10, z: 10}
   enemy: {fileID: 1370594078345244}
 --- !u!135 &135749644088355308
 SphereCollider:
